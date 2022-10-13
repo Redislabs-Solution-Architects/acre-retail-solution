@@ -1,0 +1,126 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "azure_region_1":{
+            "value": null
+        },
+        "azure_region_2":{
+            "value": null
+        },
+        "azure_region_3": {
+            "value": null
+        },
+        "cdn_origin_group_host_header":{
+            "value": null
+        },
+        "cdn_profile_custom_domain_host_name": {
+            "value": null
+        },
+        "cdn_profile_endpoint_custom_domain_host_name": {
+            "value": null
+        },
+        "profiles_magento_fd_name": {
+            "value": null
+        },
+        "servers_db_name": {
+            "value": null
+        },
+        "redisEnterprise_cartdemo1_name": {
+            "value": null
+        },
+        "redisEnterprise_cartdemo2_name": {
+            "value": null
+        },
+        "profiles_cdn_profile_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_east_name": {
+            "value": null
+        },
+        "virtualMachine_size": {
+            "value": null
+        },
+        "virtualMachines_east_magento_name": {
+            "value": null
+        },
+        "virtualMachines_admin_username":{
+            "value": null
+        },
+        "virtualMachines_west_magento_name": {
+            "value": null
+        },
+        "privateEndpoints_db_pe_name": {
+            "value": null
+        },
+        "sshPublicKeys_magento_key_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_west_name": {
+            "value": null
+        },
+        "networkInterfaces_east_magento642_name": {
+            "value": null
+        },
+        "networkInterfaces_west_magento805_name": {
+            "value": null
+        },
+        "publicIPAddresses_east_magento_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_west_magento_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_db_pe_nic_name": {
+            "value": null
+        },
+        "storageAccounts_magentocdnst_name": {
+            "value": null
+        },
+        "networkInterfaces_magento536_name": {
+            "value": null
+        },
+        "publicIPAddresses_magento_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_east_magento_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_west_magento_nsg_name": {
+            "value": null
+        },
+        "dnszones_demo_azure_redislabs_com_name": {
+            "value": null
+        },
+        "networkSecurityGroups_magento_nsg_name": {
+            "value": null
+        },
+        "privateEndpoints_cartdemo1_east_pe_name": {
+            "value": null
+        },
+        "privateEndpoints_cartdemo2_west_pe_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_south_central_name": {
+            "value": null
+        },
+        "networkSecurityGroups_magento_west_nsg_name": {
+            "value": null
+        },
+        "networkInterfaces_cartdemo1_east_pe_nic_name": {
+            "value": null
+        },
+        "networkInterfaces_cartdemo2_west_pe_nic_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_mariadb_database_azure_com_name": {
+            "value": null
+        },
+        "privateDnsZones_eastus_privatelink_redisenterprise_cache_azure_net_name": {
+            "value": null
+        },
+        "privateDnsZones_westus_privatelink_redisenterprise_cache_azure_net_name": {
+            "value": null
+        }
+    }
+}
